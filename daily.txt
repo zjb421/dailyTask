@@ -1,6 +1,6 @@
 3/20/2015
 
 1. Update webrtc
-2. Fix rel qaoms03£º this is a different issue. it's having a problem w some python dependencies
+2. Fix rel qaoms03Â£Âº this is a different issue. it's having a problem w some python dependencies
 3. Update praveen bugs
-4. Make develop branch checklist:
+4. Make develop branch checklist: https://jira.tokbox.com/browse/OPENTOK-21472
