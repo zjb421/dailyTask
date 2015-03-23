@@ -5,3 +5,9 @@
 3. Update praveen bugs
 4. Make develop branch checklist: https://jira.tokbox.com/browse/OPENTOK-21472
 5. Check resolved bugs
+
+
+3/23/2015
+
+1. Sent a list to dev about unresolved bug
+2. Investigate archiveuploader encrypt problem
