@@ -11,3 +11,6 @@
 
 1. Sent a list to dev about unresolved bug
 2. Investigate archiveuploader encrypt problem
+3. branch off branch for webrtc-js
+4. interviewed a guy
+5. List bugs for client team
