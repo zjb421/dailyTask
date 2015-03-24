@@ -19,3 +19,4 @@
 
 1. webrtc-js is not working, fixing the jenkins build
 2. regression, p2p connection related to the bug
+3. fix debugger archive session button
