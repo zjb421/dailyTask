@@ -14,3 +14,8 @@
 3. branch off branch for webrtc-js
 4. interviewed a guy
 5. List bugs for client team
+
+3/24/2015
+
+1. webrtc-js is not working, fixing the jenkins build
+2. regression, p2p connection related to the bug
